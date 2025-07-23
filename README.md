@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Pardomauro/Pardomauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Mauro Pardo
 
-Here are some ideas to get you started:
+🎓 Estudiante próximo a finalizar la Tecnicatura en Desarrollo de Aplicaciones Informáticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Apasionado por el desarrollo de software, actualmente estoy enfocado en seguir fortaleciendo mis habilidades a través de proyectos personales, especialmente en el área de desarrollo backend y APIs REST.
+
+🔍 Buscando mi primera oportunidad profesional en IT, con muchas ganas de aprender, crecer y aportar valor a equipos dinámicos.
+
+📁 En este perfil encontrarás algunos de mis proyectos, en los que aplico buenas prácticas de desarrollo, organización del código y estructura técnica.
+
+---
+
+### 📌 Intereses
+- Desarrollo backend
+- APIs RESTful
+- Arquitectura de software
+- Mejora continua y aprendizaje constante
+
+---
+
+### 📫 Contacto
+- ✉️ maupardo03@gmail.com
+
+### GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pardomauro&theme=dracula)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+Gracias por visitar mi perfil 😊
